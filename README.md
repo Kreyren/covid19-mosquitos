@@ -18,3 +18,4 @@ Note that high dosage of SARS-CoV-2 particles capable of causing Covid-19 infect
 
 ### Relevant data:
 - Mosquitos are known to cause zika virus(?)
+  - According to wikipedia (https://en.wikipedia.org/wiki/Zika_virus) Zika virus is from Flaviviridae family where SARS-CoV-2 is from Coronaviridae which might affect the results.
