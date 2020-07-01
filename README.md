@@ -6,7 +6,7 @@ Personal research in covid-19 spread through mosquitos in relation to covid-19 i
 
 ### Premise
 
-Based on currently theoretical and unverified data mosquitos could carry SARS-CoV-2 that might be able to cause covid-19 in a human.
+Based on currently theoretical and unverified data mosquitos could carry SARS-CoV-2 that might be able to cause covid-19 in a human and in [felidae](https://en.wikipedia.org/wiki/Felidae) (?).
 
 To prove this theory we would need:
 - Minimal and maximal amount of blood that specific mosquito species are able to carry
